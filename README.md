@@ -2,7 +2,7 @@
 
 ### Introdução
 
-Este projeto utiliza redes neurais para prever os resultados da última rodada de um campeonato de futebol. Com foco em técnicas avançadas de machine learning, o projeto visa oferecer insights sobre como diferentes parâmetros da rede neural podem influenciar nas previsões.
+Este projeto utiliza redes neurais para prever os resultados da última rodada de um campeonato de futebol. Com foco em técnicas de machine learning, o projeto visa oferecer insights sobre como diferentes parâmetros da rede neural podem influenciar nas previsões.
 
 ### Parâmetros do Modelo
 
