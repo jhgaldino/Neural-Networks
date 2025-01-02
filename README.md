@@ -28,8 +28,5 @@ O modelo utiliza uma arquitetura de rede neural especificada pelo usuário, incl
 
 Este projeto é um Jupyter Notebook. Execute cada célula do notebook para ver o processo passo a passo. Isso inclui a carga dos dados, a preparação, a definição do modelo, o treinamento e a visualização dos resultados.
 
-### Discussão dos Resultados
-Após a execução, analise os resultados apresentados. Comente sobre a eficácia do modelo e como diferentes parâmetros afetam o desempenho.
-
 ### Contribuições
 Sugestões e contribuições para o projeto são bem-vindas. Para dúvidas ou colaborações, por favor, entre em contato.
