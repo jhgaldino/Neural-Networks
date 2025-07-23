@@ -1,32 +1,29 @@
-## Neural-Networks: Previsão de Resultados de Futebol
+## Neural Networks: Predicting Soccer Results
 
-### Introdução
+### Introduction
 
-Este projeto utiliza redes neurais para prever os resultados da última rodada de um campeonato de futebol. Com foco em técnicas de machine learning, o projeto visa oferecer insights sobre como diferentes parâmetros da rede neural podem influenciar nas previsões.
+This project uses neural networks to predict the results of the last round of a soccer championship. Focusing on machine learning techniques, the project aims to offer insights into how different neural network parameters can influence predictions.
 
-### Parâmetros do Modelo
+### Model Parameters
 
-Para explorar diferentes resultados, os seguintes parâmetros podem ser ajustados:
+To explore different results, the following parameters can be adjusted:
 
-hidden_layers (int > 0): Define o número de camadas ocultas na rede, influenciando a complexidade do modelo.
+hidden_layers (int > 0): Defines the number of hidden layers in the network, influencing the complexity of the model.
 
-epochs (int > 0): Quantidade de ciclos de treinamento do modelo.
+epochs (int > 0): Number of model training cycles.
 
-lr (float entre 0 e 1): Learning rate, determina a velocidade de aprendizagem do modelo.
+lr (float between 0 and 1): Learning rate, determines the learning speed of the model.
 
-momentum (float entre 0 e 1): Contribui para a atualização dos pesos durante o treinamento, afetando a convergência do modelo.
+momentum (float between 0 and 1): Contributes to the updating of weights during training, affecting the convergence of the model.
 
-### Preparação dos Dados
+### Data Preparation
 
-Os dados são inicialmente limpos, removendo colunas desnecessárias e normalizando valores. O conjunto de dados é então dividido em partes de treinamento e teste.
+The data is initially cleaned, removing unnecessary columns and normalizing values. The dataset is then divided into training and testing parts.
 
-### Estrutura do Modelo
+### Model Structure
 
-O modelo utiliza uma arquitetura de rede neural especificada pelo usuário, incluindo número de camadas e neurônios. A rede é treinada com os dados de entrada e ajustada com base nos parâmetros definidos.
+The model uses a user-specified neural network architecture, including the number of layers and neurons. The network is trained with the input data and adjusted based on the defined parameters.
 
-### Executando o Modelo
+### Running the Model
 
-Este projeto é um Jupyter Notebook. Execute cada célula do notebook para ver o processo passo a passo. Isso inclui a carga dos dados, a preparação, a definição do modelo, o treinamento e a visualização dos resultados.
-
-### Contribuições
-Sugestões e contribuições para o projeto são bem-vindas. Para dúvidas ou colaborações, por favor, entre em contato.
+This project is a Jupyter Notebook. Run each cell in the notebook to see the process step by step. This includes loading the data, preparing it, defining the model, training it, and visualizing the results.
